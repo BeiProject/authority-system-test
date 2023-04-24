@@ -26,7 +26,7 @@
   </a>
 </p>
 
-English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
+English | [暗示大家是客户的空间爱上的空间哈萨克机顶盒](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
 
 <p align="center">
   <b>SPONSORED BY</b>
